@@ -1,12 +1,7 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-<p class="hide">
-  <a href="https://airtable.com/shr5KEX8NFdrG14j9?prefill_clase=00-IntroToCS">
-    <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-    <br>
-    Hacé click acá para dejar tu feedback sobre esta clase.
-  </a>
-</p>
+<!-- colocar colo titulo TrujiStudios -->
+# TrujiStudios
+
 
 # Computer Science
 
@@ -182,6 +177,3 @@ Existen lenguajes de alto y bajo nivel que luego deben ser traducidos a lenguaje
 
 ![Compilar](../_src/assets/01-IntroToCS/compilation.png)
 
-## Homework
-
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/FT-M1/tree/master/01-IntroToCS/homework)
