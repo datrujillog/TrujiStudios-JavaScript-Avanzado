@@ -3,7 +3,7 @@
   "lessonTitle": "Computer Science",
   "feedbackID": "00-IntroToCS",
   "permalink": "/Intro_CS/",
-  "homeworkUrl": "https://github.com/soyHenry/FT-M1/tree/master/01-IntroToCS/homework",
+  "homeworkUrl": "https://github.com/datrujillog/TrujiStudios-JavaScript-Avanzado/tree/main/FT-M1/01-IntroToCS/homework",
   "eleventyNavigation": {
     "key": "Intro CS",
     "order": 1

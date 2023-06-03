@@ -3,6 +3,8 @@
 # TrujiStudios
 
 
+</br>
+
 # Computer Science
 
 #### Introducción
@@ -176,4 +178,24 @@ Recordemos que las computadoras, solo entienden 0s y 1s. Ahora bien, ¿Nosotros 
 Existen lenguajes de alto y bajo nivel que luego deben ser traducidos a lenguaje maquina, lenguaje interpretable por la computadora. La "traducción" lo llamaremos compilación.
 
 ![Compilar](../_src/assets/01-IntroToCS/compilation.png)
+
+## Lenguajes de Alto Nivel
+
+Los lenguajes de alto nivel son aquellos que están más cerca del lenguaje humano, son más fáciles de entender y de escribir. Por ejemplo, C, C++, Java, Python, etc.
+
+## Lenguajes de Bajo Nivel
+
+Los lenguajes de bajo nivel son aquellos que están más cerca del lenguaje maquina, son más difíciles de entender y de escribir. Por ejemplo, Assembly.
+
+## Lenguaje de Maquina
+
+Los lenguajes de maquina son aquellos que entiende la computadora, son 0s y 1s. Por ejemplo, 01010101010101010101010101010101.
+
+## Compilador
+
+Un compilador es un programa que traduce un programa escrito en un lenguaje de alto nivel a un lenguaje de bajo nivel. Por ejemplo, un compilador de C a Assembly.
+
+## 📂 **PORTAFOLIO**
+   
+   [**TrujiStudios**](https://trujistudios.vercel.app)
 

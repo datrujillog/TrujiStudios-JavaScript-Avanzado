@@ -77,4 +77,20 @@ Las ciencias de la computación han avanzado a pasos agigantados, pero aún las 
 
 ## **✅ FEEDBACK**
 
-### Usa este [**formulario**](https://docs.google.com/forms/d/e/1FAIpQLSe1MybH_Y-xcp1RP0jKPLndLdJYg8cwyHkSb9MwSrEjoxyzWg/viewform) para reportar tus observaciones de mejora o errores. Tu feedback es muy importante para seguir mejorando el modelo educativo.
+### Usa este [**TrujiStudios**](https://trujistudios.vercel.app) para reportar tus observaciones de mejora o errores. Tu feedback es muy importante para seguir mejorando el modelo educativo.
+
+</br >
+
+---
+
+## 📌 **Links de utilidad**
+
+-  [**Sistemas de numeración**](https://www.youtube.com/watch?v=8X1xqk9nqXY)
+
+-  [**Sistemas de numeración**](https://www.youtube.com/watch?v=8X1xqk9nqXY)
+
+<!-- Portafolio -->
+
+## 📂 **PORTAFOLIO**
+   
+   [**TrujiStudios**](https://trujistudios.vercel.app)
